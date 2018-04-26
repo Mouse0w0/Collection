@@ -13,6 +13,7 @@ A list about computer and programming.
 - [并发编程网](https://ifeve.com/)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+- [极客学院](http://wiki.jikexueyuan.com/)
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
