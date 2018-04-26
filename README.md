@@ -1,5 +1,5 @@
 # Collection
-A list about computer and programming materials.
+A list about computer and programming.
 
 ## 目录
 - [教程网站](#教程网站)
@@ -11,6 +11,8 @@ A list about computer and programming materials.
 - [菜鸟教程](http://www.runoob.com/)
 - [易百教程](https://www.yiibai.com/)
 - [并发编程网](https://ifeve.com/)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
