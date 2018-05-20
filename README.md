@@ -4,6 +4,7 @@ A list about computer and programming.
 ## 目录
 - [教程网站](#教程网站)
 - [工具网站](#工具网站)
+- [开源协议介绍](#开源协议介绍)
 
 ## 教程网站
 - [W3School](http://www.w3school.com.cn/)
@@ -17,3 +18,11 @@ A list about computer and programming.
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
+
+## 开源协议介绍
+- [MIT](https://www.oschina.net/question/12_2829)
+- [Apache License 2.0](https://www.oschina.net/question/12_2828)
+- [BSD](https://www.oschina.net/question/12_2825)
+- [LGPL](https://www.oschina.net/question/12_2827)
+- [GPL](https://www.oschina.net/question/12_2826)
+- [MPL](https://www.oschina.net/question/12_2830)
