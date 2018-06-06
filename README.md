@@ -17,6 +17,7 @@ A list about computer and programming.
 - [极客学院](http://wiki.jikexueyuan.com/)
 - [JavaFX China](http://www.javafxchina.net/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
+- [腾讯云 云+社区开发者手册](https://cloud.tencent.com/developer/devdocs)
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
