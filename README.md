@@ -16,6 +16,7 @@ A list about computer and programming.
 - [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 - [极客学院](http://wiki.jikexueyuan.com/)
 - [JavaFX China](http://www.javafxchina.net/)
+- [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
