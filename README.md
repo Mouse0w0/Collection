@@ -26,3 +26,8 @@ A list about computer and programming.
 ## 开源协议
 - [几种常见的开源协议介绍](http://sfau.lt/b5Ga0f)
 - [9个主流的开源许可协议[整理]](http://univasity.iteye.com/blog/1292658)
+
+## 语言相关
+
+### Java
+- [Java设计模式](https://github.com/iluwatar/java-design-patterns)
