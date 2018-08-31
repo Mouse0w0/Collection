@@ -5,6 +5,7 @@ A list about computer and programming.
 - [教程网站](#教程网站)
 - [工具网站](#工具网站)
 - [开源协议](#开源协议)
+- [语言相关](#语言相关)
 
 ## 教程网站
 - [W3School](http://www.w3school.com.cn/)
@@ -21,6 +22,7 @@ A list about computer and programming.
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
+- [菜鸟在线工具](https://c.runoob.com/)
 - [Shields.io](http://shields.io/)(仓库徽章生成)
 
 ## 开源协议
