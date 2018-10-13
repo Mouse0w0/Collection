@@ -19,6 +19,7 @@ A list about computer and programming.
 - [JavaFX China](http://www.javafxchina.net/)
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 - [腾讯云 云+社区开发者手册](https://cloud.tencent.com/developer/devdocs)
+- [MSDN](https://msdn.microsoft.com/en-us/library/ms123401.aspx)
 
 ## 工具网站
 - [开源中国在线工具](http://tool.oschina.net/)
